@@ -23,6 +23,15 @@
       ],
       "versions": [
         {
+          "version": "2.2.1",
+          "date": "2025-05-12T12:00:00-05:00",
+          "localizedDescription": "This update fixes issues with installing AltStore onto multiple devices.\n\nPREVIOUS UPDATE\n\nNEW\n\u2022 Supports sideloading apps with \u201cIncreased Memory Limit\u201d entitlement\n\u2022 Supports localized titles, subtitles, and descriptions in sources\n\u2022 Added `altstore-classic://` URL scheme\n\u2022 Added Bluesky social media button to Settings\n\nIMPROVED\n\u2022 Hides \u201cSee All\u201d button in Browse tab for sources with just 1 app\n\u2022 Changed icon back to Classic icon by default\n\nFIXED\n\u2022 Fixed choosing alternate app icon on iPad\n\u2022 Fixed \u201cJoin Patreon\u201d sheet appearance in dark mode\n\u2022 Fixed installing apps before adding source via deep link\n\u2022 Fixed handling source deep link when already viewing source details\n\u2022 Fixed redundant app update appearing after resigning expired app\n\u2022 Fixed not immediately showing updates for some installed apps \n\u2022 Fixed not showing OPEN for installed apps when previewing source via deep link\n\u2022 Fixed not showing OPEN for installed apps when previewing already-added Recommended Source",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+          "size": 32862407,
+          "sha256": "045c2b812361feb147ae85105c83d9964a852b9ed4542ad4b2f399f757b51af7",
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.2",
           "date": "2025-04-16T15:00:00-07:00",
           "localizedDescription": "NEW\n\u2022 Supports sideloading apps with \u201cIncreased Memory Limit\u201d entitlement\n\u2022 Supports localized titles, subtitles, and descriptions in sources\n\u2022 Added `altstore-classic://` URL scheme\n\u2022 Added Bluesky social media button to Settings\n\nIMPROVED\n\u2022 Hides \u201cSee All\u201d button in Browse tab for sources with just 1 app\n\u2022 Changed icon back to Classic icon by default\n\nFIXED\n\u2022 Fixed choosing alternate app icon on iPad\n\u2022 Fixed \u201cJoin Patreon\u201d sheet appearance in dark mode\n\u2022 Fixed installing apps before adding source via deep link\n\u2022 Fixed handling source deep link when already viewing source details\n\u2022 Fixed redundant app update appearing after resigning expired app\n\u2022 Fixed not immediately showing updates for some installed apps \n\u2022 Fixed not showing OPEN for installed apps when previewing source via deep link\n\u2022 Fixed not showing OPEN for installed apps when previewing already-added Recommended Source",
